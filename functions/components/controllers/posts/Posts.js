@@ -6,7 +6,7 @@ const fs = require('fs')
 //const vision = require('@google-cloud/vision')
 const { Email } = require('./../utils/EmailHelper.js')
 const templates = require('./../utils/EmailTemplates.js')
-const { Notificaciones } = require('./../notificaciones/Notifications.js')
+const { Notifications } = require('../notifications/Notifications.js')
 
 class Posts {
   registerAudit (postId, newPost, oldPost) {

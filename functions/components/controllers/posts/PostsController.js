@@ -1,4 +1,4 @@
-const { Notifications } = require('./../notifications/Notifications')
+const { Notifications } = require('../notifications/Notifications')
 const { Posts } = require('./Posts')
 
 exports.updatePost = function (dataSnapshot, context) {
