@@ -1,0 +1,10 @@
+{
+  "configuration": {
+    "password": "96090122786005",
+    "email": "oscarmiguelperezpadilla005@gmail.com"
+  },
+  "twilio": {
+    "sid": "AC0242a8e3538353aeac414c6f1110db99",
+    "token": "f02bb3a90957e8cec51165bb810f89e1"
+  }
+}
